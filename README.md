@@ -1,4 +1,6 @@
 # Food Delivery Time Prediction
+![image](https://github.com/sriram2511/Predicting-Food-Delivery-Time-Using-Machine-Learning/assets/125891471/7fd7c587-8ead-40bd-a4f4-5fa3b85c49f5)
+
 ## Abstract
 
 The food delivery industry has experienced significant growth over the last decade, with online ordering and delivery witnessing a 300 percent faster growth than dine-in visitation since 2014. This study aims to predict the time taken for food delivery using various machine learning algorithms. The dataset includes parameters such as the type of order, type of vehicle, vehicle condition, festival season, multiple deliveries, weather condition, road traffic intensity, and city. The objective is to analyze this data to train machine learning models and accurately predict delivery times, enabling food delivery companies to optimize routes and enhance their services.
